@@ -1,0 +1,160 @@
+[03-Feb-2022 09:09:10 UTC] PHP Warning:  include(include/navbar.php): failed to open stream: No such file or directory in /home/avqvtzg79zml/public_html/landing3.noahimports.com/index.php on line 153
+[03-Feb-2022 09:09:10 UTC] PHP Warning:  include(include/navbar.php): failed to open stream: No such file or directory in /home/avqvtzg79zml/public_html/landing3.noahimports.com/index.php on line 153
+[03-Feb-2022 09:09:10 UTC] PHP Warning:  include(): Failed opening 'include/navbar.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/avqvtzg79zml/public_html/landing3.noahimports.com/index.php on line 153
+[03-Feb-2022 09:09:10 UTC] PHP Warning:  include(include/counter.php): failed to open stream: No such file or directory in /home/avqvtzg79zml/public_html/landing3.noahimports.com/index.php on line 385
+[03-Feb-2022 09:09:10 UTC] PHP Warning:  include(include/counter.php): failed to open stream: No such file or directory in /home/avqvtzg79zml/public_html/landing3.noahimports.com/index.php on line 385
+[03-Feb-2022 09:09:10 UTC] PHP Warning:  include(): Failed opening 'include/counter.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/avqvtzg79zml/public_html/landing3.noahimports.com/index.php on line 385
+[03-Feb-2022 09:09:10 UTC] PHP Warning:  include(include/footer.php): failed to open stream: No such file or directory in /home/avqvtzg79zml/public_html/landing3.noahimports.com/index.php on line 601
+[03-Feb-2022 09:09:10 UTC] PHP Warning:  include(include/footer.php): failed to open stream: No such file or directory in /home/avqvtzg79zml/public_html/landing3.noahimports.com/index.php on line 601
+[03-Feb-2022 09:09:10 UTC] PHP Warning:  include(): Failed opening 'include/footer.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/avqvtzg79zml/public_html/landing3.noahimports.com/index.php on line 601
+[03-Feb-2022 09:09:10 UTC] PHP Warning:  include(include/whatsappPlugin.php): failed to open stream: No such file or directory in /home/avqvtzg79zml/public_html/landing3.noahimports.com/index.php on line 602
+[03-Feb-2022 09:09:10 UTC] PHP Warning:  include(include/whatsappPlugin.php): failed to open stream: No such file or directory in /home/avqvtzg79zml/public_html/landing3.noahimports.com/index.php on line 602
+[03-Feb-2022 09:09:10 UTC] PHP Warning:  include(): Failed opening 'include/whatsappPlugin.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/avqvtzg79zml/public_html/landing3.noahimports.com/index.php on line 602
+[03-Feb-2022 09:09:25 UTC] PHP Warning:  include(include/navbar.php): failed to open stream: No such file or directory in /home/avqvtzg79zml/public_html/landing3.noahimports.com/index.php on line 153
+[03-Feb-2022 09:09:25 UTC] PHP Warning:  include(include/navbar.php): failed to open stream: No such file or directory in /home/avqvtzg79zml/public_html/landing3.noahimports.com/index.php on line 153
+[03-Feb-2022 09:09:25 UTC] PHP Warning:  include(): Failed opening 'include/navbar.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/avqvtzg79zml/public_html/landing3.noahimports.com/index.php on line 153
+[03-Feb-2022 09:09:25 UTC] PHP Warning:  include(include/counter.php): failed to open stream: No such file or directory in /home/avqvtzg79zml/public_html/landing3.noahimports.com/index.php on line 385
+[03-Feb-2022 09:09:25 UTC] PHP Warning:  include(include/counter.php): failed to open stream: No such file or directory in /home/avqvtzg79zml/public_html/landing3.noahimports.com/index.php on line 385
+[03-Feb-2022 09:09:25 UTC] PHP Warning:  include(): Failed opening 'include/counter.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/avqvtzg79zml/public_html/landing3.noahimports.com/index.php on line 385
+[03-Feb-2022 09:11:39 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/avqvtzg79zml/public_html/landing3.noahimports.com/aboutus.php on line 185
+[03-Feb-2022 09:11:39 UTC] PHP Notice:  Undefined variable: whytitle in /home/avqvtzg79zml/public_html/landing3.noahimports.com/aboutus.php on line 197
+[03-Feb-2022 09:11:39 UTC] PHP Notice:  Undefined variable: whydesc in /home/avqvtzg79zml/public_html/landing3.noahimports.com/aboutus.php on line 198
+[03-Feb-2022 09:11:56 UTC] PHP Notice:  Undefined index: title in /home/avqvtzg79zml/public_html/landing3.noahimports.com/services-freight.php on line 124
+[03-Feb-2022 09:11:56 UTC] PHP Notice:  Undefined index: title in /home/avqvtzg79zml/public_html/landing3.noahimports.com/services-freight.php on line 124
+[03-Feb-2022 09:11:56 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/avqvtzg79zml/public_html/landing3.noahimports.com/services-freight.php on line 163
+[03-Feb-2022 09:11:56 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/avqvtzg79zml/public_html/landing3.noahimports.com/services-freight.php on line 178
+[03-Feb-2022 09:12:16 UTC] PHP Notice:  Undefined index: title in /home/avqvtzg79zml/public_html/landing3.noahimports.com/services-freight.php on line 124
+[03-Feb-2022 09:12:16 UTC] PHP Notice:  Undefined index: title in /home/avqvtzg79zml/public_html/landing3.noahimports.com/services-freight.php on line 124
+[03-Feb-2022 09:12:16 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/avqvtzg79zml/public_html/landing3.noahimports.com/services-freight.php on line 163
+[03-Feb-2022 09:12:16 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/avqvtzg79zml/public_html/landing3.noahimports.com/services-freight.php on line 178
+[03-Feb-2022 09:12:26 UTC] PHP Notice:  Undefined index: title in /home/avqvtzg79zml/public_html/landing3.noahimports.com/services-freight.php on line 124
+[03-Feb-2022 09:12:26 UTC] PHP Notice:  Undefined index: title in /home/avqvtzg79zml/public_html/landing3.noahimports.com/services-freight.php on line 124
+[03-Feb-2022 09:12:26 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/avqvtzg79zml/public_html/landing3.noahimports.com/services-freight.php on line 163
+[03-Feb-2022 09:12:26 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/avqvtzg79zml/public_html/landing3.noahimports.com/services-freight.php on line 178
+[03-Feb-2022 09:48:37 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/avqvtzg79zml/public_html/landing3.noahimports.com/include/navbar.php on line 14
+[03-Feb-2022 09:48:37 UTC] PHP Notice:  Undefined variable: logoUrl in /home/avqvtzg79zml/public_html/landing3.noahimports.com/include/navbar.php on line 26
+[03-Feb-2022 09:48:37 UTC] PHP Notice:  Undefined variable: logo in /home/avqvtzg79zml/public_html/landing3.noahimports.com/include/navbar.php on line 26
+[03-Feb-2022 09:48:37 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/avqvtzg79zml/public_html/landing3.noahimports.com/include/navbar.php on line 57
+[03-Feb-2022 09:48:37 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/avqvtzg79zml/public_html/landing3.noahimports.com/services-freight.php on line 72
+[03-Feb-2022 09:48:37 UTC] PHP Notice:  Undefined variable: htitle in /home/avqvtzg79zml/public_html/landing3.noahimports.com/services-freight.php on line 89
+[03-Feb-2022 09:48:37 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/avqvtzg79zml/public_html/landing3.noahimports.com/services-freight.php on line 117
+[03-Feb-2022 09:48:37 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/avqvtzg79zml/public_html/landing3.noahimports.com/services-freight.php on line 163
+[03-Feb-2022 09:48:37 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/avqvtzg79zml/public_html/landing3.noahimports.com/services-freight.php on line 178
+[03-Feb-2022 09:48:37 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/avqvtzg79zml/public_html/landing3.noahimports.com/include/counter.php on line 7
+[03-Feb-2022 09:48:37 UTC] PHP Notice:  Undefined variable: ctitle1 in /home/avqvtzg79zml/public_html/landing3.noahimports.com/include/counter.php on line 32
+[03-Feb-2022 09:48:37 UTC] PHP Notice:  Undefined variable: ctitle2 in /home/avqvtzg79zml/public_html/landing3.noahimports.com/include/counter.php on line 33
+[03-Feb-2022 09:48:37 UTC] PHP Notice:  Undefined variable: cfnum in /home/avqvtzg79zml/public_html/landing3.noahimports.com/include/counter.php on line 43
+[03-Feb-2022 09:48:37 UTC] PHP Notice:  Undefined variable: cftext in /home/avqvtzg79zml/public_html/landing3.noahimports.com/include/counter.php on line 44
+[03-Feb-2022 09:48:37 UTC] PHP Notice:  Undefined variable: csnum in /home/avqvtzg79zml/public_html/landing3.noahimports.com/include/counter.php on line 51
+[03-Feb-2022 09:48:37 UTC] PHP Notice:  Undefined variable: cstext in /home/avqvtzg79zml/public_html/landing3.noahimports.com/include/counter.php on line 52
+[03-Feb-2022 09:48:37 UTC] PHP Notice:  Undefined variable: ctnum in /home/avqvtzg79zml/public_html/landing3.noahimports.com/include/counter.php on line 59
+[03-Feb-2022 09:48:37 UTC] PHP Notice:  Undefined variable: cttext in /home/avqvtzg79zml/public_html/landing3.noahimports.com/include/counter.php on line 60
+[03-Feb-2022 09:48:37 UTC] PHP Notice:  Undefined variable: cffnum in /home/avqvtzg79zml/public_html/landing3.noahimports.com/include/counter.php on line 67
+[03-Feb-2022 09:48:37 UTC] PHP Notice:  Undefined variable: cfftext in /home/avqvtzg79zml/public_html/landing3.noahimports.com/include/counter.php on line 68
+[03-Feb-2022 09:48:37 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/avqvtzg79zml/public_html/landing3.noahimports.com/services-freight.php on line 248
+[03-Feb-2022 09:48:37 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/avqvtzg79zml/public_html/landing3.noahimports.com/include/ratesTable.php on line 9
+[03-Feb-2022 09:48:37 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/avqvtzg79zml/public_html/landing3.noahimports.com/include/ratesTable.php on line 38
+[03-Feb-2022 09:48:37 UTC] PHP Notice:  Undefined variable: lbsimage in /home/avqvtzg79zml/public_html/landing3.noahimports.com/services-freight.php on line 273
+[03-Feb-2022 09:48:37 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/avqvtzg79zml/public_html/landing3.noahimports.com/include/footer.php on line 4
+[03-Feb-2022 09:48:37 UTC] PHP Notice:  Undefined variable: para in /home/avqvtzg79zml/public_html/landing3.noahimports.com/include/footer.php on line 19
+[03-Feb-2022 09:48:47 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/avqvtzg79zml/public_html/landing3.noahimports.com/include/navbar.php on line 14
+[03-Feb-2022 09:48:47 UTC] PHP Notice:  Undefined variable: logoUrl in /home/avqvtzg79zml/public_html/landing3.noahimports.com/include/navbar.php on line 26
+[03-Feb-2022 09:48:47 UTC] PHP Notice:  Undefined variable: logo in /home/avqvtzg79zml/public_html/landing3.noahimports.com/include/navbar.php on line 26
+[03-Feb-2022 09:48:47 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/avqvtzg79zml/public_html/landing3.noahimports.com/include/navbar.php on line 57
+[03-Feb-2022 09:48:47 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/avqvtzg79zml/public_html/landing3.noahimports.com/services-freight.php on line 72
+[03-Feb-2022 09:48:47 UTC] PHP Notice:  Undefined variable: htitle in /home/avqvtzg79zml/public_html/landing3.noahimports.com/services-freight.php on line 89
+[03-Feb-2022 09:48:47 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/avqvtzg79zml/public_html/landing3.noahimports.com/services-freight.php on line 117
+[03-Feb-2022 09:48:47 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/avqvtzg79zml/public_html/landing3.noahimports.com/services-freight.php on line 163
+[03-Feb-2022 09:48:47 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/avqvtzg79zml/public_html/landing3.noahimports.com/services-freight.php on line 178
+[03-Feb-2022 09:48:47 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/avqvtzg79zml/public_html/landing3.noahimports.com/include/counter.php on line 7
+[03-Feb-2022 09:48:47 UTC] PHP Notice:  Undefined variable: ctitle1 in /home/avqvtzg79zml/public_html/landing3.noahimports.com/include/counter.php on line 32
+[03-Feb-2022 09:48:47 UTC] PHP Notice:  Undefined variable: ctitle2 in /home/avqvtzg79zml/public_html/landing3.noahimports.com/include/counter.php on line 33
+[03-Feb-2022 09:48:47 UTC] PHP Notice:  Undefined variable: cfnum in /home/avqvtzg79zml/public_html/landing3.noahimports.com/include/counter.php on line 43
+[03-Feb-2022 09:48:47 UTC] PHP Notice:  Undefined variable: cftext in /home/avqvtzg79zml/public_html/landing3.noahimports.com/include/counter.php on line 44
+[03-Feb-2022 09:48:47 UTC] PHP Notice:  Undefined variable: csnum in /home/avqvtzg79zml/public_html/landing3.noahimports.com/include/counter.php on line 51
+[03-Feb-2022 09:48:47 UTC] PHP Notice:  Undefined variable: cstext in /home/avqvtzg79zml/public_html/landing3.noahimports.com/include/counter.php on line 52
+[03-Feb-2022 09:48:47 UTC] PHP Notice:  Undefined variable: ctnum in /home/avqvtzg79zml/public_html/landing3.noahimports.com/include/counter.php on line 59
+[03-Feb-2022 09:48:47 UTC] PHP Notice:  Undefined variable: cttext in /home/avqvtzg79zml/public_html/landing3.noahimports.com/include/counter.php on line 60
+[03-Feb-2022 09:48:47 UTC] PHP Notice:  Undefined variable: cffnum in /home/avqvtzg79zml/public_html/landing3.noahimports.com/include/counter.php on line 67
+[03-Feb-2022 09:48:47 UTC] PHP Notice:  Undefined variable: cfftext in /home/avqvtzg79zml/public_html/landing3.noahimports.com/include/counter.php on line 68
+[03-Feb-2022 09:48:47 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/avqvtzg79zml/public_html/landing3.noahimports.com/services-freight.php on line 248
+[03-Feb-2022 09:48:47 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/avqvtzg79zml/public_html/landing3.noahimports.com/include/ratesTable.php on line 9
+[03-Feb-2022 09:48:47 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/avqvtzg79zml/public_html/landing3.noahimports.com/include/ratesTable.php on line 38
+[03-Feb-2022 09:48:47 UTC] PHP Notice:  Undefined variable: lbsimage in /home/avqvtzg79zml/public_html/landing3.noahimports.com/services-freight.php on line 273
+[03-Feb-2022 09:48:47 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/avqvtzg79zml/public_html/landing3.noahimports.com/include/footer.php on line 4
+[03-Feb-2022 09:48:47 UTC] PHP Notice:  Undefined variable: para in /home/avqvtzg79zml/public_html/landing3.noahimports.com/include/footer.php on line 19
+[03-Feb-2022 09:50:17 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/avqvtzg79zml/public_html/landing3.noahimports.com/aboutus.php on line 185
+[03-Feb-2022 09:50:17 UTC] PHP Notice:  Undefined variable: whytitle in /home/avqvtzg79zml/public_html/landing3.noahimports.com/aboutus.php on line 197
+[03-Feb-2022 09:50:17 UTC] PHP Notice:  Undefined variable: whydesc in /home/avqvtzg79zml/public_html/landing3.noahimports.com/aboutus.php on line 198
+[03-Feb-2022 09:51:14 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/avqvtzg79zml/public_html/landing3.noahimports.com/aboutus.php on line 185
+[03-Feb-2022 09:51:14 UTC] PHP Notice:  Undefined variable: whytitle in /home/avqvtzg79zml/public_html/landing3.noahimports.com/aboutus.php on line 197
+[03-Feb-2022 09:51:14 UTC] PHP Notice:  Undefined variable: whydesc in /home/avqvtzg79zml/public_html/landing3.noahimports.com/aboutus.php on line 198
+[03-Feb-2022 09:51:51 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/avqvtzg79zml/public_html/landing3.noahimports.com/aboutus.php on line 185
+[03-Feb-2022 09:51:51 UTC] PHP Notice:  Undefined variable: whytitle in /home/avqvtzg79zml/public_html/landing3.noahimports.com/aboutus.php on line 197
+[03-Feb-2022 09:51:51 UTC] PHP Notice:  Undefined variable: whydesc in /home/avqvtzg79zml/public_html/landing3.noahimports.com/aboutus.php on line 198
+[03-Feb-2022 10:04:20 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/avqvtzg79zml/public_html/landing3.noahimports.com/aboutus.php on line 185
+[03-Feb-2022 10:04:20 UTC] PHP Notice:  Undefined variable: whytitle in /home/avqvtzg79zml/public_html/landing3.noahimports.com/aboutus.php on line 197
+[03-Feb-2022 10:04:20 UTC] PHP Notice:  Undefined variable: whydesc in /home/avqvtzg79zml/public_html/landing3.noahimports.com/aboutus.php on line 198
+[03-Feb-2022 10:06:43 UTC] PHP Notice:  Undefined index: title in /home/avqvtzg79zml/public_html/landing3.noahimports.com/services-freight.php on line 124
+[03-Feb-2022 10:06:43 UTC] PHP Notice:  Undefined index: title in /home/avqvtzg79zml/public_html/landing3.noahimports.com/services-freight.php on line 124
+[03-Feb-2022 10:06:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/avqvtzg79zml/public_html/landing3.noahimports.com/services-freight.php on line 163
+[03-Feb-2022 10:06:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/avqvtzg79zml/public_html/landing3.noahimports.com/services-freight.php on line 178
+[05-Jun-2023 04:36:45 UTC] PHP Warning:  include(lan/db/db.php): failed to open stream: No such file or directory in /home/avqvtzg79zml/public_html/landing3.noahimports.com/privacy_policy.php on line 1
+[05-Jun-2023 04:36:45 UTC] PHP Stack trace:
+[05-Jun-2023 04:36:45 UTC] PHP   1. {main}() /home/avqvtzg79zml/public_html/landing3.noahimports.com/privacy_policy.php:0
+[05-Jun-2023 04:36:45 UTC] PHP Warning:  include(lan/db/db.php): failed to open stream: No such file or directory in /home/avqvtzg79zml/public_html/landing3.noahimports.com/privacy_policy.php on line 1
+[05-Jun-2023 04:36:45 UTC] PHP Stack trace:
+[05-Jun-2023 04:36:45 UTC] PHP   1. {main}() /home/avqvtzg79zml/public_html/landing3.noahimports.com/privacy_policy.php:0
+[05-Jun-2023 04:36:45 UTC] PHP Warning:  include(): Failed opening 'lan/db/db.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/avqvtzg79zml/public_html/landing3.noahimports.com/privacy_policy.php on line 1
+[05-Jun-2023 04:36:45 UTC] PHP Stack trace:
+[05-Jun-2023 04:36:45 UTC] PHP   1. {main}() /home/avqvtzg79zml/public_html/landing3.noahimports.com/privacy_policy.php:0
+[05-Jun-2023 04:36:45 UTC] PHP Warning:  include(lan/include/loader.php): failed to open stream: No such file or directory in /home/avqvtzg79zml/public_html/landing3.noahimports.com/privacy_policy.php on line 49
+[05-Jun-2023 04:36:45 UTC] PHP Stack trace:
+[05-Jun-2023 04:36:45 UTC] PHP   1. {main}() /home/avqvtzg79zml/public_html/landing3.noahimports.com/privacy_policy.php:0
+[05-Jun-2023 04:36:45 UTC] PHP Warning:  include(lan/include/loader.php): failed to open stream: No such file or directory in /home/avqvtzg79zml/public_html/landing3.noahimports.com/privacy_policy.php on line 49
+[05-Jun-2023 04:36:45 UTC] PHP Stack trace:
+[05-Jun-2023 04:36:45 UTC] PHP   1. {main}() /home/avqvtzg79zml/public_html/landing3.noahimports.com/privacy_policy.php:0
+[05-Jun-2023 04:36:45 UTC] PHP Warning:  include(): Failed opening 'lan/include/loader.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/avqvtzg79zml/public_html/landing3.noahimports.com/privacy_policy.php on line 49
+[05-Jun-2023 04:36:45 UTC] PHP Stack trace:
+[05-Jun-2023 04:36:45 UTC] PHP   1. {main}() /home/avqvtzg79zml/public_html/landing3.noahimports.com/privacy_policy.php:0
+[05-Jun-2023 04:36:45 UTC] PHP Warning:  include(lan/include/navbar.php): failed to open stream: No such file or directory in /home/avqvtzg79zml/public_html/landing3.noahimports.com/privacy_policy.php on line 50
+[05-Jun-2023 04:36:45 UTC] PHP Stack trace:
+[05-Jun-2023 04:36:45 UTC] PHP   1. {main}() /home/avqvtzg79zml/public_html/landing3.noahimports.com/privacy_policy.php:0
+[05-Jun-2023 04:36:45 UTC] PHP Warning:  include(lan/include/navbar.php): failed to open stream: No such file or directory in /home/avqvtzg79zml/public_html/landing3.noahimports.com/privacy_policy.php on line 50
+[05-Jun-2023 04:36:45 UTC] PHP Stack trace:
+[05-Jun-2023 04:36:45 UTC] PHP   1. {main}() /home/avqvtzg79zml/public_html/landing3.noahimports.com/privacy_policy.php:0
+[05-Jun-2023 04:36:45 UTC] PHP Warning:  include(): Failed opening 'lan/include/navbar.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/avqvtzg79zml/public_html/landing3.noahimports.com/privacy_policy.php on line 50
+[05-Jun-2023 04:36:45 UTC] PHP Stack trace:
+[05-Jun-2023 04:36:45 UTC] PHP   1. {main}() /home/avqvtzg79zml/public_html/landing3.noahimports.com/privacy_policy.php:0
+[05-Jun-2023 04:36:45 UTC] PHP Notice:  Undefined variable: con in /home/avqvtzg79zml/public_html/landing3.noahimports.com/privacy_policy.php on line 96
+[05-Jun-2023 04:36:45 UTC] PHP Stack trace:
+[05-Jun-2023 04:36:45 UTC] PHP   1. {main}() /home/avqvtzg79zml/public_html/landing3.noahimports.com/privacy_policy.php:0
+[05-Jun-2023 04:36:45 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/avqvtzg79zml/public_html/landing3.noahimports.com/privacy_policy.php on line 96
+[05-Jun-2023 04:36:45 UTC] PHP Stack trace:
+[05-Jun-2023 04:36:45 UTC] PHP   1. {main}() /home/avqvtzg79zml/public_html/landing3.noahimports.com/privacy_policy.php:0
+[05-Jun-2023 04:36:45 UTC] PHP   2. mysqli_query($link = NULL, $query = 'SELECT * FROM privacypolicy') /home/avqvtzg79zml/public_html/landing3.noahimports.com/privacy_policy.php:96
+[05-Jun-2023 04:36:45 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/avqvtzg79zml/public_html/landing3.noahimports.com/privacy_policy.php on line 97
+[05-Jun-2023 04:36:45 UTC] PHP Stack trace:
+[05-Jun-2023 04:36:45 UTC] PHP   1. {main}() /home/avqvtzg79zml/public_html/landing3.noahimports.com/privacy_policy.php:0
+[05-Jun-2023 04:36:45 UTC] PHP   2. mysqli_num_rows($result = NULL) /home/avqvtzg79zml/public_html/landing3.noahimports.com/privacy_policy.php:97
+[05-Jun-2023 04:36:45 UTC] PHP Notice:  Undefined variable: data in /home/avqvtzg79zml/public_html/landing3.noahimports.com/privacy_policy.php on line 105
+[05-Jun-2023 04:36:45 UTC] PHP Stack trace:
+[05-Jun-2023 04:36:45 UTC] PHP   1. {main}() /home/avqvtzg79zml/public_html/landing3.noahimports.com/privacy_policy.php:0
+[05-Jun-2023 04:36:45 UTC] PHP Warning:  include(lan/include/footer.php): failed to open stream: No such file or directory in /home/avqvtzg79zml/public_html/landing3.noahimports.com/privacy_policy.php on line 122
+[05-Jun-2023 04:36:45 UTC] PHP Stack trace:
+[05-Jun-2023 04:36:45 UTC] PHP   1. {main}() /home/avqvtzg79zml/public_html/landing3.noahimports.com/privacy_policy.php:0
+[05-Jun-2023 04:36:45 UTC] PHP Warning:  include(lan/include/footer.php): failed to open stream: No such file or directory in /home/avqvtzg79zml/public_html/landing3.noahimports.com/privacy_policy.php on line 122
+[05-Jun-2023 04:36:45 UTC] PHP Stack trace:
+[05-Jun-2023 04:36:45 UTC] PHP   1. {main}() /home/avqvtzg79zml/public_html/landing3.noahimports.com/privacy_policy.php:0
+[05-Jun-2023 04:36:45 UTC] PHP Warning:  include(): Failed opening 'lan/include/footer.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/avqvtzg79zml/public_html/landing3.noahimports.com/privacy_policy.php on line 122
+[05-Jun-2023 04:36:45 UTC] PHP Stack trace:
+[05-Jun-2023 04:36:45 UTC] PHP   1. {main}() /home/avqvtzg79zml/public_html/landing3.noahimports.com/privacy_policy.php:0
+[05-Jun-2023 04:36:45 UTC] PHP Warning:  include(lan/include/whatsappPlugin.php): failed to open stream: No such file or directory in /home/avqvtzg79zml/public_html/landing3.noahimports.com/privacy_policy.php on line 123
+[05-Jun-2023 04:36:45 UTC] PHP Stack trace:
+[05-Jun-2023 04:36:45 UTC] PHP   1. {main}() /home/avqvtzg79zml/public_html/landing3.noahimports.com/privacy_policy.php:0
+[05-Jun-2023 04:36:45 UTC] PHP Warning:  include(lan/include/whatsappPlugin.php): failed to open stream: No such file or directory in /home/avqvtzg79zml/public_html/landing3.noahimports.com/privacy_policy.php on line 123
+[05-Jun-2023 04:36:45 UTC] PHP Stack trace:
+[05-Jun-2023 04:36:45 UTC] PHP   1. {main}() /home/avqvtzg79zml/public_html/landing3.noahimports.com/privacy_policy.php:0
+[05-Jun-2023 04:36:45 UTC] PHP Warning:  include(): Failed opening 'lan/include/whatsappPlugin.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/avqvtzg79zml/public_html/landing3.noahimports.com/privacy_policy.php on line 123
+[05-Jun-2023 04:36:45 UTC] PHP Stack trace:
+[05-Jun-2023 04:36:45 UTC] PHP   1. {main}() /home/avqvtzg79zml/public_html/landing3.noahimports.com/privacy_policy.php:0

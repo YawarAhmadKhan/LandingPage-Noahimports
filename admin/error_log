@@ -1,0 +1,49 @@
+[03-Feb-2022 09:12:44 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/avqvtzg79zml/public_html/landing3.noahimports.com/admin/services.php on line 151
+[03-Feb-2022 09:13:32 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/avqvtzg79zml/public_html/landing3.noahimports.com/admin/privacyPolicy.php on line 90
+[03-Feb-2022 09:13:32 UTC] PHP Notice:  Undefined variable: data in /home/avqvtzg79zml/public_html/landing3.noahimports.com/admin/privacyPolicy.php on line 101
+[03-Feb-2022 09:50:59 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/avqvtzg79zml/public_html/landing3.noahimports.com/admin/about.php on line 183
+[03-Feb-2022 09:50:59 UTC] PHP Notice:  Undefined variable: whytitle in /home/avqvtzg79zml/public_html/landing3.noahimports.com/admin/about.php on line 199
+[03-Feb-2022 09:50:59 UTC] PHP Notice:  Undefined variable: whydesc in /home/avqvtzg79zml/public_html/landing3.noahimports.com/admin/about.php on line 203
+[03-Feb-2022 09:51:10 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/avqvtzg79zml/public_html/landing3.noahimports.com/admin/about.php on line 183
+[03-Feb-2022 09:51:10 UTC] PHP Notice:  Undefined variable: whytitle in /home/avqvtzg79zml/public_html/landing3.noahimports.com/admin/about.php on line 199
+[03-Feb-2022 09:51:10 UTC] PHP Notice:  Undefined variable: whydesc in /home/avqvtzg79zml/public_html/landing3.noahimports.com/admin/about.php on line 203
+[03-Feb-2022 09:51:39 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/avqvtzg79zml/public_html/landing3.noahimports.com/admin/about.php on line 183
+[03-Feb-2022 09:51:39 UTC] PHP Notice:  Undefined variable: whytitle in /home/avqvtzg79zml/public_html/landing3.noahimports.com/admin/about.php on line 199
+[03-Feb-2022 09:51:39 UTC] PHP Notice:  Undefined variable: whydesc in /home/avqvtzg79zml/public_html/landing3.noahimports.com/admin/about.php on line 203
+[03-Feb-2022 09:51:47 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/avqvtzg79zml/public_html/landing3.noahimports.com/admin/about.php on line 183
+[03-Feb-2022 09:51:47 UTC] PHP Notice:  Undefined variable: whytitle in /home/avqvtzg79zml/public_html/landing3.noahimports.com/admin/about.php on line 199
+[03-Feb-2022 09:51:47 UTC] PHP Notice:  Undefined variable: whydesc in /home/avqvtzg79zml/public_html/landing3.noahimports.com/admin/about.php on line 203
+[03-Feb-2022 09:55:47 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/avqvtzg79zml/public_html/landing3.noahimports.com/admin/about.php on line 183
+[03-Feb-2022 09:55:47 UTC] PHP Notice:  Undefined variable: whytitle in /home/avqvtzg79zml/public_html/landing3.noahimports.com/admin/about.php on line 199
+[03-Feb-2022 09:55:47 UTC] PHP Notice:  Undefined variable: whydesc in /home/avqvtzg79zml/public_html/landing3.noahimports.com/admin/about.php on line 203
+[03-Feb-2022 10:00:28 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/avqvtzg79zml/public_html/landing3.noahimports.com/admin/about.php on line 183
+[03-Feb-2022 10:00:28 UTC] PHP Notice:  Undefined variable: whytitle in /home/avqvtzg79zml/public_html/landing3.noahimports.com/admin/about.php on line 199
+[03-Feb-2022 10:00:28 UTC] PHP Notice:  Undefined variable: whydesc in /home/avqvtzg79zml/public_html/landing3.noahimports.com/admin/about.php on line 203
+[03-Feb-2022 10:00:35 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/avqvtzg79zml/public_html/landing3.noahimports.com/admin/about.php on line 183
+[03-Feb-2022 10:00:35 UTC] PHP Notice:  Undefined variable: whytitle in /home/avqvtzg79zml/public_html/landing3.noahimports.com/admin/about.php on line 199
+[03-Feb-2022 10:00:35 UTC] PHP Notice:  Undefined variable: whydesc in /home/avqvtzg79zml/public_html/landing3.noahimports.com/admin/about.php on line 203
+[03-Feb-2022 10:00:54 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/avqvtzg79zml/public_html/landing3.noahimports.com/admin/about.php on line 183
+[03-Feb-2022 10:00:54 UTC] PHP Notice:  Undefined variable: whytitle in /home/avqvtzg79zml/public_html/landing3.noahimports.com/admin/about.php on line 199
+[03-Feb-2022 10:00:54 UTC] PHP Notice:  Undefined variable: whydesc in /home/avqvtzg79zml/public_html/landing3.noahimports.com/admin/about.php on line 203
+[03-Feb-2022 10:03:47 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/avqvtzg79zml/public_html/landing3.noahimports.com/admin/about.php on line 183
+[03-Feb-2022 10:03:47 UTC] PHP Notice:  Undefined variable: whytitle in /home/avqvtzg79zml/public_html/landing3.noahimports.com/admin/about.php on line 199
+[03-Feb-2022 10:03:47 UTC] PHP Notice:  Undefined variable: whydesc in /home/avqvtzg79zml/public_html/landing3.noahimports.com/admin/about.php on line 203
+[03-Feb-2022 10:07:22 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/avqvtzg79zml/public_html/landing3.noahimports.com/admin/services.php on line 151
+[03-Feb-2022 10:17:38 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/avqvtzg79zml/public_html/landing3.noahimports.com/admin/about.php on line 183
+[03-Feb-2022 10:17:39 UTC] PHP Notice:  Undefined variable: whytitle in /home/avqvtzg79zml/public_html/landing3.noahimports.com/admin/about.php on line 199
+[03-Feb-2022 10:17:39 UTC] PHP Notice:  Undefined variable: whydesc in /home/avqvtzg79zml/public_html/landing3.noahimports.com/admin/about.php on line 203
+[03-Feb-2022 10:19:29 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/avqvtzg79zml/public_html/landing3.noahimports.com/admin/about.php on line 183
+[03-Feb-2022 10:19:31 UTC] PHP Notice:  Undefined variable: whytitle in /home/avqvtzg79zml/public_html/landing3.noahimports.com/admin/about.php on line 199
+[03-Feb-2022 10:19:31 UTC] PHP Notice:  Undefined variable: whydesc in /home/avqvtzg79zml/public_html/landing3.noahimports.com/admin/about.php on line 203
+[03-Feb-2022 10:29:58 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/avqvtzg79zml/public_html/landing3.noahimports.com/admin/about.php on line 183
+[03-Feb-2022 10:29:59 UTC] PHP Notice:  Undefined variable: whytitle in /home/avqvtzg79zml/public_html/landing3.noahimports.com/admin/about.php on line 199
+[03-Feb-2022 10:29:59 UTC] PHP Notice:  Undefined variable: whydesc in /home/avqvtzg79zml/public_html/landing3.noahimports.com/admin/about.php on line 203
+[03-Feb-2022 10:30:08 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/avqvtzg79zml/public_html/landing3.noahimports.com/admin/about.php on line 183
+[03-Feb-2022 10:30:08 UTC] PHP Notice:  Undefined variable: whytitle in /home/avqvtzg79zml/public_html/landing3.noahimports.com/admin/about.php on line 199
+[03-Feb-2022 10:30:08 UTC] PHP Notice:  Undefined variable: whydesc in /home/avqvtzg79zml/public_html/landing3.noahimports.com/admin/about.php on line 203
+[03-Feb-2022 10:30:30 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/avqvtzg79zml/public_html/landing3.noahimports.com/admin/about.php on line 183
+[03-Feb-2022 10:30:30 UTC] PHP Notice:  Undefined variable: whytitle in /home/avqvtzg79zml/public_html/landing3.noahimports.com/admin/about.php on line 199
+[03-Feb-2022 10:30:30 UTC] PHP Notice:  Undefined variable: whydesc in /home/avqvtzg79zml/public_html/landing3.noahimports.com/admin/about.php on line 203
+[03-Feb-2022 10:47:40 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/avqvtzg79zml/public_html/landing3.noahimports.com/admin/about.php on line 183
+[03-Feb-2022 10:47:41 UTC] PHP Notice:  Undefined variable: whytitle in /home/avqvtzg79zml/public_html/landing3.noahimports.com/admin/about.php on line 199
+[03-Feb-2022 10:47:41 UTC] PHP Notice:  Undefined variable: whydesc in /home/avqvtzg79zml/public_html/landing3.noahimports.com/admin/about.php on line 203
