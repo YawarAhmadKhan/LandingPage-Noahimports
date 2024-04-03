@@ -170,7 +170,7 @@ include "db/db.php";
 <body>
 
   <?php
-  include "include/loader.php";
+  // include "include/loader.php";
   include "include/navbar.php";
 
   ?>
@@ -371,7 +371,11 @@ include "db/db.php";
             while ($row = $result->fetch_assoc()) {
               ?>
               <div class="slide">
-                <img src="uploads/<?php echo $row['image']; ?>" height="100" width="250" alt="" />
+                <?php if (!empty($row['image'])) { ?>
+                  <img src="uploads/<?php echo $row['image']; ?>" height="100" width="250" alt="" />
+                <?php } else { ?>
+                  <img src="uploads/not_found.png" height="100" width="250" alt="" />
+                <?php } ?>
               </div>
               <?php
             }
@@ -529,14 +533,12 @@ include "db/db.php";
         </div><!--end col-->
       </div><!--end row-->
 
-      <!-- News Slider -->
 
       <div class="owl-carousel owl-theme">
 
         <?php
         $sql = "SELECT * FROM news";
         $result = $con->query($sql);
-
         if ($result->num_rows > 0) {
           // output data of each row
           while ($row = $result->fetch_assoc()) {

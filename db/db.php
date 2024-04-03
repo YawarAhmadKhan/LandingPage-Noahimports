@@ -1,2 +1,2 @@
 <?php
-$con = mysqli_connect("localhost", "root", "", "landing-noah");
+$con = mysqli_connect("localhost", "root", "", "nowah");
