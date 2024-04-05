@@ -29,10 +29,10 @@ include "db/db.php";
   <!-- Main css -->
   <link href="assets/theme_deprixa/css/style.css" rel="stylesheet" type="text/css" />
   <!-- tobii css -->
-  <link href="assets/theme_deprixa/css/tobii.min.html" rel="stylesheet" type="text/css" />
+  <!-- <link href="assets/theme_deprixa/css/tobii.min.html" rel="stylesheet" type="text/css" />
   <link href="assets/theme_deprixa/css/tobii.min.html" rel="stylesheet" type="text/css" />
   <link href="assets/theme_deprixa/css/tobii.min.css" rel="stylesheet" type="text/css" />
-  <link href="assets/theme_deprixa/css/tiny-slider.css" rel="stylesheet" type="text/css" />
+  <link href="assets/theme_deprixa/css/tiny-slider.css" rel="stylesheet" type="text/css" /> -->
 
   <!-- Jquery -->
   <script src="https://code.jquery.com/jquery-3.6.0.min.js"
